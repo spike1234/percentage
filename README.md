@@ -17,3 +17,12 @@ This project was compiled with Visual Studio Professional 2015.
 ## Contributing
 
 I created this project with a very basic understanding of developing C# desktop applications and contributions are extremely welcome!
+
+----
+
+## Additional notes
+
+This is Boso's version:
+- merged with https://github.com/kas/percentage/pull/8/files
+- changed Font face and size to Fixedsys 10pt
+- removed `TextRenderingHint`
